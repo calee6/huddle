@@ -4229,7 +4229,7 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-toggler-icon {
-  background-image: url("images/hamburger-menu.png");
+  background-image: url("../images/hamburger-menu.png");
 }
 .navbar-light .navbar-text {
   color: rgba(0, 0, 0, 0.55);
