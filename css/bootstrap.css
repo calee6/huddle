@@ -80,6 +80,10 @@ section {
   background-color: #fff;
 }
 
+header {
+  background-image: url(../images/bg-hero-desktop.svg);
+}
+
 footer {
   z-index: -1;
 }
