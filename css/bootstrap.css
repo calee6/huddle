@@ -21,7 +21,7 @@
   --bs-teal: #20c997;
   --bs-very-dark-cyan: #00252e;
   --bs-cyan: #0dcaf0;
-  --bs-very-pale-cyan: #e9fbff;
+  --bs-very-pale-cyan: #ebfbff;
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
@@ -70,27 +70,27 @@
   background-color: var(--bs-grayish-blue);
 }
 
-section {
-  z-index: 2;
-  position: relative;
-  top: 100px;
-}
-
 .white-bg{
   background-color: #fff;
+}
+
+.white-logo {
+  width: 30%;
+  height: auto;
 }
 
 header {
   background-image: url(../images/bg-hero-desktop.svg);
 }
 
-footer {
-  z-index: -1;
+section {
+  z-index: 2;
+  position: relative;
+  top: 100px;
 }
 
-.white-logo {
-  width: 30%;
-  height: auto;
+footer {
+  z-index: -1;
 }
 
 *,
